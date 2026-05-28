@@ -1,0 +1,32 @@
+aid: transport-for-hessen-germany
+name: Transport for Hessen, Germany
+description: "RMV API (Public Transport in Hessen)"
+url: https://opendata.rmv.de/site/start.html
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Transportation"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Transportation
+  - Public APIs
+apis:
+  - name: Transport for Hessen, Germany
+    description: "RMV API (Public Transport in Hessen)"
+    humanURL: https://opendata.rmv.de/site/start.html
+    baseURL: https://opendata.rmv.de/site/start.html
+    tags:
+      - Transportation
+    properties:
+      - type: Documentation
+        url: https://opendata.rmv.de/site/start.html
+common:
+  - type: Website
+    url: https://opendata.rmv.de/site/start.html
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
