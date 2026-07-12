@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://opendata.rmv.de/site/start.html
 common:
+  - type: VulnerabilityDisclosure
+    url: security/transport-for-hessen-germany-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/transport-for-hessen-germany-domain-security.yml
   - type: Website
     url: https://opendata.rmv.de/site/start.html
   - type: PublicAPIsListing
