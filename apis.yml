@@ -39,7 +39,6 @@ apis:
   - name: Transport for Hessen, Germany
     description: "RMV API (Public Transport in Hessen)"
     humanURL: https://opendata.rmv.de/site/start.html
-    baseURL: https://opendata.rmv.de/site/start.html
     tags:
       - Transportation
     properties:
